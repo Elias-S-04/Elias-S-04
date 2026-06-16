@@ -1,22 +1,74 @@
-# 💫 About Me:
-Hobby developer exploring software, electronics, and creative tech projects. I build things to learn, improve, and document my progress along the way.<br>
+# Hi, I'm Elias 👋
 
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eliaslvsrs@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Elias-S-04&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Elias-S-04&theme=highcontrast&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Elias-S-04&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Elias-S-04&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Elias-S-04&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I’m a self-taught developer interested in software, electronics, embedded systems, and creative tech.  
+I use GitHub to build, experiment, document my progress, and improve through practical projects.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Elias-S-04&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## About Me
+
+- Exploring programming, game development, electronics, and Linux-based systems
+- Building hands-on projects with Unity, Arduino/ESP32, Raspberry Pi, and web technologies
+- Interested in creative tools, automation, homelab infrastructure, and embedded displays
+- Continuously learning by turning ideas into working prototypes
+
+---
+
+## Contact
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliaslvsrs@gmail.com)
+
+---
+
+## Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Tools & Frameworks
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=aseprite&logoColor=7D929E)
+
+### Systems & DevOps
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=white)
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Elias-S-04&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Elias-S-04&theme=highcontrast&hide_border=true)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Elias-S-04&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+## GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Elias-S-04&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
+## Top Contributed Repositories
+
+![Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=Elias-S-04&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Elias-S-04&icon=0&color=0)
