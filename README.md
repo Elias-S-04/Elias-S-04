@@ -59,16 +59,5 @@ I use GitHub to build, experiment, document my progress, and improve through pra
 
 ---
 
-## GitHub Trophies
+![Profile Views](https://komarev.com/ghpvc/?username=Elias-S-04&style=flat-square&color=grey)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Elias-S-04&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
----
-
-## Top Contributed Repositories
-
-![Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=Elias-S-04&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=Elias-S-04&icon=0&color=0)
