@@ -17,6 +17,7 @@ I use GitHub to build, experiment, document my progress, and improve through pra
 ## Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliaslvsrs@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elias_Sørås-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-s%C3%B8r%C3%A5s-a7837b417)
 
 ---
 
