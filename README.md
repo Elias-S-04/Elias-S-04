@@ -21,6 +21,26 @@ I use GitHub to build, experiment, document my progress, and improve through pra
 
 ---
 
+## Project Focus
+
+- Developer tools and workflow automation
+- Embedded systems and hardware-connected software
+- Linux systems, self-hosting, and homelab infrastructure
+- Unity tools, shaders, and interactive prototypes
+- Pixel art interfaces and creative technical experiments
+
+---
+
+## Selected Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [ButtonForge](https://github.com/Elias-S-04/ButtonForge) | Unity editor tool for generating pixel-styled UI buttons and exporting them as PNG assets. | Unity, C#, Editor Tools |
+| [Homelab](https://github.com/Elias-S-04/Homelab) | Linux-based infrastructure experiments with Docker and Kubernetes concepts. | Linux, Docker, Kubernetes |
+| [Pixelterm](https://github.com/Elias-S-04/pixelterm) | Terminal-based pixel rendering and visual experiments in Python. | Python, CLI |
+
+---
+
 ## Tech Stack
 
 ### Languages
@@ -51,7 +71,6 @@ I use GitHub to build, experiment, document my progress, and improve through pra
 ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=plastic&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=plastic&logo=raspberrypi&logoColor=white)
-![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=plastic&logo=pi-hole&logoColor=white)
 
 ### Electronics & Embedded
 
@@ -63,14 +82,16 @@ I use GitHub to build, experiment, document my progress, and improve through pra
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Elias-S-04&theme=highcontrast&hide_border=false&border_radius=12&include_all_commits=false&count_private=false&show_icons=true)
+<div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Elias-S-04&theme=highcontrast&hide_border=false&border_radius=12)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elias-S-04&hide_border=false&border_radius=12&show_icons=true)
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Elias-S-04&theme=highcontrast&hide_border=false&border_radius=12&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Elias-S-04&hide_border=false&border_radius=12)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elias-S-04&hide_border=false&border_radius=12&layout=compact)
+
+</div>
 
 ---
-
-## Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Elias-S-04&style=plastic&color=blue)
