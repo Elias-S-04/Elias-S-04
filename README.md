@@ -35,7 +35,7 @@ I use GitHub to build, experiment, document my progress, and improve through pra
 
 | Project | Description | Tech |
 |---|---|---|
-| [ButtonForge](https://github.com/Elias-S-04/ButtonForge) | Unity editor tool for generating pixel-styled UI buttons and exporting them as PNG assets. | Unity, C#, Editor Tools |
+| **ButtonForge** (Private) | Unity editor tool for generating pixel-styled UI buttons and exporting them as PNG assets. | Unity, C#, Editor Tools |
 | [Homelab](https://github.com/Elias-S-04/Homelab) | Linux-based infrastructure experiments with Docker and Kubernetes concepts. | Linux, Docker, Kubernetes |
 | [Pixelterm](https://github.com/Elias-S-04/pixelterm) | Terminal-based pixel rendering and visual experiments in Python. | Python, CLI |
 
